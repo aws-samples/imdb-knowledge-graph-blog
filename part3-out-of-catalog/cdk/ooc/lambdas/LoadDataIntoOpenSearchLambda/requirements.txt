@@ -1,0 +1,7 @@
+opensearch-py
+requests_aws4auth
+pandas
+boto3
+fsspec
+s3fs
+cfnresponse

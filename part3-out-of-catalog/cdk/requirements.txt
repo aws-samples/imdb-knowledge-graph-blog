@@ -1,0 +1,4 @@
+aws-cdk-lib==2.44.0
+constructs>=10.0.0,<11.0.0
+aws-cdk.aws-lambda-python-alpha==2.44.0a0
+aws_requests_auth==0.4.3
